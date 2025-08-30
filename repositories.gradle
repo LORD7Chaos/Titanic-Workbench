@@ -1,0 +1,11 @@
+// Add any additional repositories for your dependencies here
+
+repositories {
+    mavenCentral()
+    maven { url = "https://maven.minecraftforge.net" }
+    maven { url = "https://libraries.minecraft.net" }
+    maven { url = "https://maven.blamejared.com" }
+    maven { url = "https://maven.cleanroommc.com" }
+    maven { url = "https://nexus.gtnewhorizons.com/repository/public" }
+    maven { url = "https://maven.gtceu.com" }
+}
